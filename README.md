@@ -3,7 +3,7 @@
 
 # Hello-Microverse-project
 
-> Description the project.
+> .
 This is my first hands on project at Microverse
 
 
